@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.maindiv{
+    height: 125%;
+    padding: 5rem 10rem;
+    background-image: linear-gradient(rgb(32, 37, 41), rgb(159, 184, 218));
+    border-radius: 1px solid rgb(46, 46, 196);
+}
+
+.firstDiv{
+    background-image: url('https://p2.piqsels.com/preview/450/176/837/596ca6d9b6604-thumbnail.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+    width: 60%;
+
+}
+
+.secondaside{
+    height: 75vh;
+    width: 40%;
+    background-color: #3a7c7b;
+}
